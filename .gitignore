@@ -1,0 +1,12 @@
+# Node modules
+frontend/node_modules/
+
+# Build outputs
+frontend/dist/
+frontend/.vite/
+
+# OS files
+.DS_Store
+*.log
+backend/venv/
+frontend/node_modules/
